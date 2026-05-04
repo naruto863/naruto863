@@ -20,7 +20,6 @@ I focus on building **reliable backend systems**, **developer productivity tools
 | Project | Status | Description |
 |---|---:|---|
 | **reliable-task** | In Progress | Reliable async task & compensation framework for Spring Boot. |
-| **admin-platform** | Planning / Building | Vue3 + Spring Boot management console with RBAC and extensible modules. |
 | **AI workflow tools** | Exploring | Tools and workflows for AI-assisted software engineering. |
 
 ---
@@ -43,25 +42,6 @@ A reliable async task and compensation framework for Spring Boot.
 **Tech stack:**
 
 `Java` · `Spring Boot` · `MyBatis-Plus` · `MySQL` · `Redis` · `XXL-Job`
-
----
-
-### admin-platform
-
-A modern full-stack admin and management platform.
-
-**Focus areas:**
-
-- RBAC permission system
-- Dynamic menus
-- Department / organization model
-- Data permission
-- Modular backend architecture
-- Extensible frontend modules
-
-**Tech stack:**
-
-`Vue 3` · `TypeScript` · `Vite` · `Tailwind CSS` · `Ant Design Vue` · `Spring Boot 3` · `Java 21` · `MySQL 8`
 
 ---
 
@@ -101,8 +81,6 @@ A modern full-stack admin and management platform.
 | Time | Direction | Notes |
 |---|---|---|
 | 2026 Q2 | reliable-task | First public version, docs, examples, basic monitoring. |
-| 2026 Q3 | admin-platform | Core modules, RBAC, menus, user/role/permission management. |
-| 2026 Q4 | AI workflow tools | Developer productivity, prompt templates, coding workflow automation. |
 
 ---
 
